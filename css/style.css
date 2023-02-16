@@ -1,0 +1,113 @@
+.head{
+    background-color: #ff4d29;
+    height: 40px;
+}
+.container{
+    color: rgb(255, 255, 255);
+    padding-top: 5px;
+    height: 38px;
+}
+.col-auto a{
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.25);
+    align-items: center;
+    justify-content:center;
+    text-decoration: none;
+    border-radius: 100px;  
+}
+/* a{
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.25);
+    align-items: center;
+    justify-content:center;
+    text-decoration: none;
+    border-radius: 100px;  
+} */
+.row {
+    justify-content:space-between;
+}
+.bx:hover{
+background-color: #ff4d29;
+border-radius: 100px;
+width: 20px;
+height: 20px;
+}
+/*-----------------------------------  HEAD END ----------------------------------------*/
+
+
+
+
+/*---------------------------------  HEAD 2 START --------------------------------------*/
+.navbar{
+border: 2PX solid red;
+height: 80px;
+}
+/*----------------------------------  HEAD 2 END ---------------------------------------*/
+
+
+
+/*---------------------------------  SLIDER 2 START ------------------------------------*/
+/* .mmm{
+    border: 2px solid red;
+    background-image:url(D:\Web3\Projects\prixima\images\bg_banner2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+.pre,.nex{
+    border: 2px solid red;
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    line-height: 55px;
+    margin-left: 10px;
+    /* margin-top: 300px; */
+}
+.nex{
+    margin-right: 10px;
+}
+
+.raj{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7sj5g0jeUVvY-IzxR2lbz710Wo1N76UuQZzd_A0&s);
+}
+
+
+.main2{
+    height: 748px;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7sj5g0jeUVvY-IzxR2lbz710Wo1N76UuQZzd_A0&s);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    }
+
+/*---------------------------------  SLIDER 2 END ------------------------------------*/
+
+
+fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
